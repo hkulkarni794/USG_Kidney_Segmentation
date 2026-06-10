@@ -8,8 +8,8 @@ import java.io.File
 
 // --- SETTINGS ---
 double downsample = 1.0 
-def outputDir = "D:/KidneySegmentation/USG annoations/Images_and_masks/"
-def outputMask = "D:/KidneySegmentation/USG annoations/Images_and_masks/"
+def outputDir = "Path to store images"
+def outputMask = "Path to store masks"
 
 def imageData = getCurrentImageData()
 def server = imageData.getServer()
