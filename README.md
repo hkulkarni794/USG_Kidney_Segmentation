@@ -1,1 +1,2 @@
+# USG Image Kidney Segmentation Project
 This repository contains the groovy and python codes used to develop and validate a Tensorflow/Keras-based UNet model to segment kidneys in ultrasonography images. Details of the model and the results are described in the paper by Athavale and Kulkarni.
